@@ -1,0 +1,42 @@
+body 
+{ 
+    background-size: cover;
+}
+
+.note
+{ 
+    font-size: 15px; 
+    color: black; 
+}
+
+.div_speed 
+{
+    float: left; 
+}
+
+.div_speed_img 
+{ 
+    width: 200px; 
+    border-radius: 100px;
+}
+
+#speed
+{ 
+    font-size: 20px; 
+}
+
+.div_volume_img
+{ 
+    width: 200px; 
+    border-radius: 100px;
+}
+
+.div_volume 
+{ 
+    float: right; 
+}
+
+#volume 
+{ 
+    font-size: 20px; 
+}
